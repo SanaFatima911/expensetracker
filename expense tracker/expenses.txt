@@ -1,0 +1,3 @@
+
+Description: grocery | Amount: $220.00 | Date: 12/7/2024 19:4:20
+Description: laundary | Amount: $30.00 | Date: 12/7/2024 19:4:48
